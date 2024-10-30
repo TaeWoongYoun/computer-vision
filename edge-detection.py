@@ -1,8 +1,7 @@
 import cv2
 
 def edge():
-    # 이미지 로드
-    img = cv2.imread("./cat.png")  # "cat.png" 파일에서 이미지를 읽어옵니다.
+    img = cv2.imread("./image/cat.png")
     
     if img is None:
         print("Image not found.")

@@ -79,6 +79,6 @@ def style_transfer(content_path, style_path, num_iterations=1000, content_weight
     return generated_image
 
 # 사용 예시
-content_image_path = 'pk.png'  # 내용 이미지 경로
-style_image_path = 'cat.png'      # 스타일 이미지 경로
+content_image_path = './image/pk.png'  # 내용 이미지 경로
+style_image_path = './image/cat.png'      # 스타일 이미지 경로
 result = style_transfer(content_image_path, style_image_path)
