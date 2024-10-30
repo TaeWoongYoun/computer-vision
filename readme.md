@@ -36,7 +36,7 @@ GAN을 활용한 스타일 전이(Style Transfer)를 수행하는 프로그램�
 
 ## 🖼️ 프로젝트 실행 화면 (고양이 이미지 비교)
 <p align="center">
-  <img src="./image/cat.png" alt="cat image" width="45%">
+  <img src="./image/cat.PNG" alt="cat image" width="45%">
   <img src="./image/edge_image.png" alt="edge detection image" width="45%">
 </p>
 
