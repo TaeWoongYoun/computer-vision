@@ -1,8 +1,8 @@
-# 🖼️ 이미지 처리 및 생성 프로젝트
+# 이미지 처리 및 생성 프로젝트
 
 이 프로젝트는 컴퓨터 비전에 관심이 생겨서 OpenCV를 이용해서 기본 이미지 표시와 에지 검출 기능을 구현했습니다.
 
-## 📂 프로젝트 파일 구조
+## 프로젝트 파일 구조
 
 ### 1. `test.py`
 이미지를 불러와 화면에 표시하는 테스트 프로그램입니다.
@@ -34,13 +34,13 @@ GAN을 활용한 스타일 전이(Style Transfer)를 수행하는 프로그램�
 
 ---
 
-## 🖼️ 프로젝트 실행 화면 (고양이 이미지 에지검출)
+## 프로젝트 실행 화면 (고양이 이미지 에지검출)
 <p align="center">
   <img src="./image/cat.PNG" alt="cat image" width="45%">
   <img src="./image/edge_image.png" alt="edge detection image" width="45%">
 </p>
 
-## 🛠️ 사용된 기술 스택
+## 사용된 기술 스택
 
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 - ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
